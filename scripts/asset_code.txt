@@ -1,0 +1,96 @@
+indices = {
+    "S&P 500": "^GSPC",
+    "Nasdaq Composite": "^IXIC",
+    "Dow Jones": "^DJI",
+    "Russell 2000": "^RUT",
+    "CAC 40": "^FCHI",
+    "DAX": "^GDAXI",
+    "FTSE 100": "^FTSE",
+    "FTSE MIB": "FTSEMIB.MI",
+    "IBEX 35": "^IBEX",
+    "SMI": "^SSMI",
+    "Nikkei 225": "^N225",
+    "Hang Seng": "^HSI",
+    "Shanghai Composite": "000001.SS",
+    "ASX 200": "^AXJO",
+    "Bovespa": "^BVSP"
+}
+
+stocks = {
+    "Apple": "AAPL",
+    "Microsoft": "MSFT",
+    "NVIDIA": "NVDA",
+    "Amazon": "AMZN",
+    "Alphabet": "GOOGL",
+    "Meta": "META",
+    "Tesla": "TSLA",
+    "Berkshire Hathaway": "BRK-B",
+    "JP Morgan": "JPM",
+    "Visa": "V",
+    "Mastercard": "MA",
+    "Exxon Mobil": "XOM",
+    "Chevron": "CVX",
+    "Johnson & Johnson": "JNJ",
+    "Pfizer": "PFE",
+    "Coca-Cola": "KO",
+    "PepsiCo": "PEP",
+    "Walmart": "WMT",
+    "McDonald's": "MCD",
+    "Netflix": "NFLX"
+}
+
+etfs = {
+    "SPDR S&P 500 ETF": "SPY",
+    "Invesco QQQ": "QQQ",
+    "Vanguard Total Stock Market": "VTI",
+    "Vanguard FTSE All-World": "VT",
+    "iShares MSCI World": "URTH",
+    "iShares MSCI Emerging Markets": "EEM",
+    "Vanguard FTSE Emerging Markets": "VWO",
+    "iShares Core S&P 500": "IVV",
+    "ARK Innovation ETF": "ARKK",
+    "iShares Gold Trust": "IAU",
+    "SPDR Gold Shares": "GLD",
+    "Vanguard Real Estate ETF": "VNQ",
+    "iShares Core Aggregate Bond": "AGG",
+    "Vanguard Total Bond Market": "BND",
+    "SPDR Dow Jones Industrial Average": "DIA"
+}
+
+
+crypto = {
+    "Bitcoin": "BTC-USD",
+    "Ethereum": "ETH-USD",
+    "Binance Coin": "BNB-USD",
+    "Solana": "SOL-USD",
+    "Ripple": "XRP-USD",
+    "Cardano": "ADA-USD",
+    "Dogecoin": "DOGE-USD",
+    "Avalanche": "AVAX-USD",
+    "Polkadot": "DOT-USD",
+    "Chainlink": "LINK-USD",
+    "Polygon": "MATIC-USD",
+    "Litecoin": "LTC-USD",
+    "Bitcoin Cash": "BCH-USD",
+    "Stellar": "XLM-USD",
+    "Cosmos": "ATOM-USD"
+}
+
+
+commodities = {
+    "Gold": "GC=F",
+    "Silver": "SI=F",
+    "Crude Oil WTI": "CL=F",
+    "Brent Oil": "BZ=F",
+    "Natural Gas": "NG=F",
+    "Copper": "HG=F",
+    "Corn": "ZC=F",
+    "Wheat": "ZW=F",
+    "Soybeans": "ZS=F",
+    "Coffee": "KC=F",
+    "Sugar": "SB=F",
+    "Cotton": "CT=F",
+    "Platinum": "PL=F",
+    "Palladium": "PA=F",
+    "Aluminum": "ALI=F"
+}
