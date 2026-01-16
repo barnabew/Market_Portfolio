@@ -21,8 +21,8 @@ All financial data is automatically fetched from Yahoo Finance, cleaned, and str
 
 ## Screenshots
 
-![Change color theme](images/color_gif.webp)
-![Graphics Overview](images/graphics.png)
+![Change color theme](screenshots/colors_gif.webp)
+![Graphics Overview](screenshots/graphics.png)
 
 
 ## How to Use
